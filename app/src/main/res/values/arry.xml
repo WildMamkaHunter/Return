@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="name">
+        <item>Галя</item>
+        <item>Петя</item>
+        <item>Некита</item>
+        <item>Коля</item>
+    </string-array>
+    <string-array name="phone">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>
